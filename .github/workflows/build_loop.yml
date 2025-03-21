@@ -286,8 +286,6 @@ jobs:
           future_carbs_4h \
           no_auth \
           override_sens \
-          now_line \
-          watch_title \
           profiles \
           basal_lock \
           live_activity \
